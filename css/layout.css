@@ -360,7 +360,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: jquery 2s ease;
 }
 .java {
-  	width: 90%;
+  	width: 95%;
   	-moz-animation: java 2s ease;
   	-webkit-animation: java 2s ease;
 }
@@ -371,7 +371,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: distributedalgorithms 2s ease;
 }
 .scalabledatabase {
-  	width: 60%;
+  	width: 80%;
   	-moz-animation: scalabledatabase 2s ease;
   	-webkit-animation: scalabledatabase 2s ease;
 }
@@ -381,12 +381,12 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: opsyskern 2s ease;
 }
 .multicore {
-  	width: 65%;
+  	width: 75%;
   	-moz-animation: multicore 2s ease;
   	-webkit-animation: multicore 2s ease;
 }
 .javaEE {
-  	width: 55%;
+  	width: 70%;
   	-moz-animation: javaEE 2s ease;
   	-webkit-animation: javaEE 2s ease;
 }
@@ -417,7 +417,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes java {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 95%;  }
 }
 @-moz-keyframes distributedalgorithms {
   0%   { width: 0px;  }
@@ -425,7 +425,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes scalabledatabase {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes opsyskern {
   0%   { width: 0px;  }
@@ -433,11 +433,11 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes multicore {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 75%;  }
 }
 @-moz-keyframes javaEE {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 70%;  }
 }
 
 
@@ -467,7 +467,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes java {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 95%;  }
 }
 @-webkit-keyframes distributedalgorithms {
    0%   { width: 0px;  }
@@ -475,7 +475,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes scalabledatabase {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes opsyskern {
   0%   { width: 0px;  }
@@ -483,11 +483,11 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes multicore {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 75%;  }
 }
 @-webkit-keyframes javaEE {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 70%;  }
 }
 
 
