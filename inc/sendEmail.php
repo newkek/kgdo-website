@@ -28,6 +28,7 @@ if($_POST) {
 
 
    // Set Message
+   $message = "";
    $message .= "Email from: " . $name . "<br />";
 	$message .= "Email address: " . $email . "<br />";
    $message .= "Message: <br />";
