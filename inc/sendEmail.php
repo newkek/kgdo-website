@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'gallardo.kevin0@gmail.com';
+$siteOwnersEmail = 'kevin.gallardo@etu.upmc.fr';
 
 
 if($_POST) {
