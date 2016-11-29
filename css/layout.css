@@ -50,8 +50,8 @@ header:before {
 
 header .header-background {
 	border-radius: 10px;
-	border: 1px solid #000000;
-	height: 80%;
+/*	border: 1px solid #000000;*/
+/*	height: 80%;*/
 	background-position: center;
 	background: #F06000;
 }
