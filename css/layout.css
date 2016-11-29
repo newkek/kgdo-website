@@ -50,7 +50,9 @@ header:before {
 
 header .header-background {
 	border-radius: 10px;
-	background: #F06000
+	border: 0px;
+	height: 70%;
+	background: #F06000;
 }
 
 header .banner {
