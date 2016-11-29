@@ -49,6 +49,7 @@ header:before {
 }
 
 header .header-background {
+	border-radius: 10px;
 	background: #161415
 }
 
